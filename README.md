@@ -41,7 +41,7 @@ GET /groups: http://localhost:8080/groups
 
 GET /groups with query parameters: http://localhost:8080/groups?gid=2000
 
-GET /groups with query parameters: http://localhost:8080/groups?name=people&gid=2000
+GET /groups with multiple query parameters: http://localhost:8080/groups?name=people&gid=2000
 
 GET /groups/:gid: http://localhost:8080/groups/2000
 
