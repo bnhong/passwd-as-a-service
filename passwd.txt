@@ -1,0 +1,6 @@
+root:!:0:0::/:/usr/bin/bash
+bnhong:!:1001:1001:man:/home/bnhong:/usr/bin/bash
+roy:!:1002:1002:dog:/home/roy:/usr/bin/false
+test:!:9000:9000:unittest:/test/user:/usr/bin/test
+bunreth:!:3000:2000:man:/home/bunreth:/usr/bin/bash
+stephanie:!:3001:2000:man:/home/stephanie:/usr/bin/bash
