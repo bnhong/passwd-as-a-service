@@ -31,12 +31,12 @@ GET /users: http://localhost:8080/users
 
 GET /users with query parameters: http://localhost:8080/users?uid=3000
 
-GET /users/<uid>: http://localhost:8080/users/3000
+GET /users/:uid: http://localhost:8080/users/3000
   
-GET /users/<uid>/groups: http://localhost:8080/users/3000/groups
+GET /users/:uid/groups: http://localhost:8080/users/3000/groups
   
 GET /groups: http://localhost:8080/groups
 
 GET /groups with query parameters: http://localhost:8080/groups?gid=2000
 
-GET /groups/<gid>: http://localhost:8080/groups/2000
+GET /groups/:gid: http://localhost:8080/groups/2000
