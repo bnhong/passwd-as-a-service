@@ -10,7 +10,8 @@ Minimal HTTP service to expose user and group information from /etc/passwd and /
 ## Running the service
 
 1. Navigate to the root directory.
-2. npm start
+2. npm install (if packages have not been installed)
+3. npm start
 
 Note: The application currently runs using provided passwd and group files. If you wish to use your own, change the following variables to  point to your own files:
 
